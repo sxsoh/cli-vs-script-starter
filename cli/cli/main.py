@@ -1,6 +1,6 @@
 """a variety of numerical operations based on the value of an option to the CLI"""
 
-# TODO: add at least ten single-line comments to this file to describe individual line of code.
+o
 
 import typer
 
